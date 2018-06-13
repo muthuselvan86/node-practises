@@ -1,0 +1,5 @@
+This is a Test file.
+
+cat is a domestic animal. 
+cat love eating fish.
+cat sounds 'meow'.

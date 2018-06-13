@@ -1,0 +1,13 @@
+{
+  "name": "Node-Core",
+  "version": "1.0.0",
+  "description": "Node Practise.",
+  "main": "index.js",
+  "author": "Muthu",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.1",
+    "chalk": "^2.4.1",
+    "request": "^2.87.0"
+  }
+}
